@@ -1,7 +1,7 @@
 """
 app.py — AI Legal Document Analyzer Dashboard
 """  
- 
+    
 import sys, json, io
 import streamlit as st
 import plotly.graph_objects as go
